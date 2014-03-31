@@ -19,8 +19,9 @@ The data set is available as a CSV file called [bisMembers.csv](https://github.c
 To download it directly into R use:
 
 ```{S}
-URL <- ''
-BIS <- repmis::source_data('')
+URL <- 'https://raw.githubusercontent.com/christophergandrud/bisMembers/master/bisMembers.csv'
+
+BIS <- repmis::source_data(URL)
 ```
 
 ## Creation
