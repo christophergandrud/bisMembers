@@ -11,6 +11,8 @@ A simple data set of [Bank of International Settlements (BIS)](http://www.bis.or
 
 The data set is available as a CSV file called [bisMembers.csv](https://github.com/christophergandrud/bisMembers/blob/master/bisMembers.csv). It contains two variables:
 
+| Variable Name | Short Description      |
+| ------------- | ---------------------- |
 | country | Country or jurisdiction name |
 | iso2c   | [ISO 2 country letter code](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) |
 
