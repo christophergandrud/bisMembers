@@ -1,7 +1,7 @@
 bisMembers
 ==========
 
-**March 2014**
+March 2014
 
 ## Motivation
 
@@ -9,7 +9,7 @@ A simple data set of [Bank of International Settlements (BIS)](http://www.bis.or
 
 ## Data set
 
-The data set is available as a CSV file called *bisMembers.csv*. It contains two variables:
+The data set is available as a CSV file called [bisMembers.csv](https://github.com/christophergandrud/bisMembers/blob/master/bisMembers.csv). It contains two variables:
 
 | country | Country/jurisdiction name |
 | iso2c   | [ISO 2 country letter code](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
@@ -25,4 +25,4 @@ BIS <- repmis::source_data('')
 
 ## Creation
 
-This simple data set is created using the the R file:   
+This simple data set is created using the the R file: [bisMembersMake.R](https://github.com/christophergandrud/bisMembers/blob/master/bisMembersMake.R)  
