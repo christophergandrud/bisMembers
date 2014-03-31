@@ -16,7 +16,7 @@ The data set is available as a CSV file called [bisMembers.csv](https://github.c
 | country | Country or jurisdiction name |
 | iso2c   | [ISO 2 country letter code](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) |
 
-## Download in R
+## Download into R
 
 To download it directly into R use:
 
