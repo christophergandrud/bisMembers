@@ -28,4 +28,4 @@ BIS <- repmis::source_data(URL)
 
 ## Creation
 
-This simple data set is created using the the R file: [bisMembersMake.R](https://github.com/christophergandrud/bisMembers/blob/master/bisMembersMake.R)  
+This simple data set is created using the the R file [bisMembersMake.R](https://github.com/christophergandrud/bisMembers/blob/master/bisMembersMake.R).
